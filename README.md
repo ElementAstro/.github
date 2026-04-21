@@ -1,1 +1,1 @@
-元素天文开发组，一群热爱化学的天文软件开发者
+ElementAstro — Open-source ecosystem for modern astronomy software. C++ libraries, cross-platform desktop & mobile apps for observers, researchers and telescope automation.
