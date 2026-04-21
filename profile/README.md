@@ -1,16 +1,48 @@
-## Hi there 👋
+# ElementAstro 🔭
 
-<!--
+> *When a group of developers who love chemistry try to build astronomy software — maybe it's a Big Bang.*
 
-**Here are some ideas to get you started:**
+We build a modern, open-source ecosystem for astronomy — from low-level C++ libraries to cross-platform desktop and mobile applications. Everything is designed to be composable, performant, and actually usable in the field.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
 
-## 元素天文
+## 🌌 Our Projects
 
-当一群热爱化学的天文爱好者尝试创作一个软件时，会发生什么呢？也许是宇宙大爆炸吧！
+### Core Libraries
+
+| Project | Description |
+|---------|-------------|
+| **[Atom](https://github.com/ElementAstro/Atom)** | C++20/23 foundational library — 18+ modules covering async I/O, memory management, FITS/SER format support, image processing pipelines, networking, cryptography, and system introspection |
+| **[Lithium Image](https://github.com/ElementAstro/lithium-image)** | Image processing & calibration library — flat/dark/bias corrections, chessboard calibration, AVX2/OpenMP optimizations |
+
+### Desktop & Mobile Applications
+
+| Project | Description |
+|---------|-------------|
+| **[Cobalt SkyMap](https://github.com/ElementAstro/cobalt-skymap)** | Desktop star map & observation planner — Stellarium engine integration, 9-tab astronomical calculator (ephemeris, phenomena, almanac…), mount control via ALPACA, plate solving |
+| **[Cobalt FITS Viewer](https://github.com/ElementAstro/cobalt-fits-viewer)** | Mobile FITS image processor — 8 stretch algorithms, 16 colormaps, image stacking, RGB composition, astrometry.net integration, cloud backup |
+| **[Cobalt Next](https://github.com/ElementAstro/cobalt-next)** | Web frontend for astronomical device control and real-time observation management |
+| **[LightAPT](https://github.com/ElementAstro/LightAPT)** | Lightweight astronomy planning tool for telescope automation and observation scheduling |
+
+---
+
+## 🛠 Tech Stack
+
+Our projects span across **C++20/23**, **TypeScript**, **Rust**, **Python**, **React / Next.js**, **Tauri**, and **React Native** — chosen for performance and cross-platform reach.
+
+---
+
+## 🤝 Contributing
+
+All repositories are open-source and welcome contributions. If you're passionate about astronomy and software, we'd love to have you.
+
+- 🌱 **Star** a project you find useful
+- 💬 **Open an issue** with ideas or bug reports
+- 🔀 **Fork & PR** to contribute directly
+
+---
+
+## 🔗 Links
+
+- 🌐 Website: [lightapt.com](https://lightapt.com)
+- 👤 Lead: [@AstroAir](https://github.com/AstroAir)
